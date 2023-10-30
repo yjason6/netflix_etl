@@ -27,7 +27,7 @@ has been downloaded from Kaggle.com - https://www.kaggle.com/datasets/ariyoomota
 
 Data from the csv file was transformed using Python Pandas. 
 
-Transformed csv files were then ultimately local loaded into PostgreSQL for querying and also local loaded into PowerBI for data visulisation 
+Transformed csv files were then ultimately local loaded into PostgreSQL for querying and also local loaded into PowerBI for data visualisation 
 
 <!-- LIBRARY TOOLKIT -->
 ## Library & Toolkit Used
