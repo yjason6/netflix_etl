@@ -70,7 +70,7 @@ Transformed csv files were then ultimately local loaded into PostgreSQL for quer
     -   director.csv
     -   categories_country.csv
 
-5.  The 3 output files were fed into PowerBI for visulisation
+5.  The 3 output files were fed into PowerBI for visualisation
 
 
 
